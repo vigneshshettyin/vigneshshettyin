@@ -3,6 +3,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@vigneshshettyin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vigneshshettyin)](https://twitter.com/vigneshshettyin) [![Linkedin Badge](https://img.shields.io/badge/-vigneshshettyin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshshettyin/)](https://www.linkedin.com/in/vigneshshettyin/) [![Gmail Badge](https://img.shields.io/badge/-contact@vigneshshetty.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@vigneshshetty.in)](mailto:contact@vigneshshetty.in)
 
+![](https://hit.yhype.me/github/profile?user_id=77713888)
+
 
 
 - 🌱 I’m a Tech lover, I do Full-Stack Web Development & Data Visualization.
