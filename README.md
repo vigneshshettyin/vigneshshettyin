@@ -6,7 +6,7 @@
 
 - 🌱 I’m a Tech lover, I do Full-Stack Web Development & Data Visualization.
 - 👯 I’m looking to collaborate on Data Visualization Projects.
-- 💬 Ask me about Data Visualization(Seaborn, Potly, Matplotlib), Web Development ( PHP, JS, HTML, CSS, MYSQL, FLASK)
+- 💬 Ask me about Data Visualization(Seaborn, Potly, Matplotlib), Web Development ( PHP, JS, HTML, CSS, MYSQL, FLASK, DJANGO)
 - 🌱 I’m currently learning Deep Learning.
 - 🤔 I’m looking for help with Dart.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vigneshshettyin/)
@@ -40,16 +40,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" />   -->
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />  
 </div>  
 
