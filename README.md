@@ -58,6 +58,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshettyin&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr>
-<tr><td><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshshettyin" alt="vigneshshettyin" /></a></p></tr></td>
-</table>  
+</td></tr></table>  
+
+
+<table><tr><td valign="top" width="50%">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshshettyin" alt="vigneshshettyin" /></a></p>
+
+</td><td valign="top" width="50%">
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshshettyin" alt="vigneshshettyin" /></p>
+
+</td></tr></table>  
