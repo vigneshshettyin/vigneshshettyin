@@ -100,4 +100,4 @@
 
 </td></tr></table>
 
-<center>![](https://komarev.com/ghpvc/?username=vigneshshettyin&label=PROFILE+VIEWS&color=brightgreen&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=77713888)</center>
+![](https://komarev.com/ghpvc/?username=vigneshshettyin&label=PROFILE+VIEWS&color=brightgreen&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=77713888)
