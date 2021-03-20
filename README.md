@@ -1,16 +1,28 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+![](https://komarev.com/ghpvc/?username=vigneshshettyin&label=PROFILE+VIEWS&color=brightgreen&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=77713888)
 
-[![Twitter Badge](https://img.shields.io/badge/-@vigneshshettyin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vigneshshettyin)](https://twitter.com/vigneshshettyin) [![Linkedin Badge](https://img.shields.io/badge/-vigneshshettyin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshshettyin/)](https://www.linkedin.com/in/vigneshshettyin/) [![Gmail Badge](https://img.shields.io/badge/-contact@vigneshshetty.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@vigneshshetty.in)](mailto:contact@vigneshshetty.in) ![](https://komarev.com/ghpvc/?username=vigneshshettyin&label=PROFILE+VIEWS&color=brightgreen&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=77713888)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">I'm Vignesh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+  
 
-- 🌱 I’m a Tech lover, I do Full-Stack Web Development & Data Visualization.
-- 👯 I’m looking to collaborate on Data Visualization Projects.
-- 💬 Ask me about Data Visualization(Seaborn, Potly, Matplotlib), Web Development ( PHP, JS, HTML, CSS, MYSQL, FLASK, DJANGO)
-- 🌱 I’m currently learning Deep Learning.
-- 🤔 I’m looking for help with Dart.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vigneshshettyin/)
-- ⚡ Fun fact: Love towards badminton and a Big Foodie 😄 !! 
+- 🔭 I’m a tech lover, I do Full-Stack Web Development & Data Visualization.  
+  
+
+- 🌱  I’m currently learning Deep Learning  
+  
+
+- ❓ Ask me about Data Visualization(Seaborn, Potly, Matplotlib), Web Development ( PHP, JS, HTML, CSS, MYSQL, FLASK, DJANGO, REACT)  
+  
+
+- ⚡  I’m looking for help with Dart.  
+  
+
+<br/>  
+
 
 
 ### Languages and Tools:
