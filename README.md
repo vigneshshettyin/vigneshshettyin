@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=vigneshshettyin&label=PROFILE+VIEWS&color=brightgreen&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=77713888)
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
 </div>  
@@ -70,6 +67,27 @@
 
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/vigneshshettyin" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/vigneshshettyin" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/vigneshshettyin" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UCsu4KjG49zxDPDNIDvrXBBQ" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:contact@vigneshshetty.in" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 ### Github Stats:
 <table><tr><td valign="top" width="50%">
@@ -81,3 +99,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshettyin&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
+
+![](https://komarev.com/ghpvc/?username=vigneshshettyin&label=PROFILE+VIEWS&color=brightgreen&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=77713888)
