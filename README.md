@@ -99,5 +99,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshettyin&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
-
-![](https://komarev.com/ghpvc/?username=vigneshshettyin&label=PROFILE+VIEWS&color=brightgreen&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=77713888)
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vigneshshettyin&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" align="center" />
+</div>
+![](https://hit.yhype.me/github/profile?user_id=77713888)
