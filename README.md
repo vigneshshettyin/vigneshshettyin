@@ -8,7 +8,7 @@
 ### <div align="center">I'm Vignesh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m a tech lover, I do Full-Stack Web Development & Data Visualization.  
+- 🔭 I’m a tech lover, I do Full-Stack Development
   
 
 - 🌱  I’m currently learning Deep Learning  
