@@ -11,13 +11,13 @@
 - 🔭 I’m a tech lover, I do Full-Stack Development
   
 
-- 🌱  I’m currently learning Deep Learning  
+- 🌱  I’m currently learning App Development Using Kotlin 
   
 
 - ❓ Ask me about Data Visualization(Seaborn, Potly, Matplotlib), Web Development ( PHP, JS, HTML, CSS, MYSQL, FLASK, DJANGO, REACT)  
   
 
-- ⚡  I’m looking for help with Dart.  
+- ⚡  I’m looking for help with Kotlin.  
   
 <br/>  
 
