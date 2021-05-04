@@ -1,8 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=77713888)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-</div>
+[![MastHead](https://cdn.discordapp.com/attachments/702454057003909141/839142090037526568/Screenshot_2021-05-04_194007.png)](https://vigneshshetty.in)
   
 
 ### <div align="center">I'm Vignesh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
