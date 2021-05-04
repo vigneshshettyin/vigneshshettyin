@@ -19,7 +19,9 @@
 
 - ⚡  I’m looking for help with Kotlin.  
   
-<br/>  
+<br/>
+
+[![Vignesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vigneshshettyin&theme=rogue)](https://github.com/vigneshshettyin)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
