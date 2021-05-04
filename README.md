@@ -20,6 +20,14 @@
 <br/>
 
 [![Vignesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vigneshshettyin&theme=rogue)](https://github.com/vigneshshettyin)
+<br>
+
+## Let's Go Open Source 📖
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Flask Generate Certificate**](https://github.com/vigneshshettyin/Flask-Generate-Certificate) | [![GitHub issues](https://img.shields.io/github/issues/vigneshshettyin/Flask-Generate-Certificate?color=green&logo=github&style=flat)](https://github.com/vigneshshettyin/Flask-Generate-Certificate/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vigneshshettyin/Flask-Generate-Certificate?style=flat&logo=github)](https://github.com/vigneshshettyin/Flask-Generate-Certificate/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vigneshshettyin/Flask-Generate-Certificate?style=flat&color=critical&logo=github)](https://github.com/vigneshshettyin/Flask-Generate-Certificate/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Bulk Mailer**](https://github.com/vigneshshettyin/Bulk-Mailer/) | [![GitHub issues](https://img.shields.io/github/issues/vigneshshettyin/Bulk-Mailer?color=green&logo=github&style=flat)](https://github.com/vigneshshettyin/Bulk-Mailer/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vigneshshettyin/Bulk-Mailer?style=flat&logo=github)](https://github.com/vigneshshettyin/Bulk-Mailer/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vigneshshettyin/Bulk-Mailer?style=flat&color=critical&logo=github)](https://github.com/vigneshshettyin/Bulk-Mailer/pulls?q=is%3Apr+is%3Aclosed)   |
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
