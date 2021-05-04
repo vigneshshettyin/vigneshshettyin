@@ -1,22 +1,11 @@
 ![](https://hit.yhype.me/github/profile?user_id=77713888)
 
 [![MastHead](https://cdn.discordapp.com/attachments/702454057003909141/839142090037526568/Screenshot_2021-05-04_194007.png)](https://vigneshshetty.in)
-  
+ 
+# Hello there! 👋🏻
 
-### <div align="center">I'm Vignesh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
+I'm Vignesh Shetty 🙋, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀. I’m a tech lover, I do Full-Stack Development. I’m currently learning App Development Using Kotlin. Ask me about Data Visualization(Seaborn, Potly, Matplotlib), Web Development ( PHP, JS, HTML, CSS, MYSQL, FLASK, DJANGO, REACT). I’m looking for help with Kotlin. 
 
-- 🔭 I’m a tech lover, I do Full-Stack Development
-  
-
-- 🌱  I’m currently learning App Development Using Kotlin 
-  
-
-- ❓ Ask me about Data Visualization(Seaborn, Potly, Matplotlib), Web Development ( PHP, JS, HTML, CSS, MYSQL, FLASK, DJANGO, REACT)  
-  
-
-- ⚡  I’m looking for help with Kotlin.  
-  
 <br/>
 
 [![Vignesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vigneshshettyin&theme=rogue)](https://github.com/vigneshshettyin)
@@ -29,7 +18,7 @@
 | [**Flask Generate Certificate**](https://github.com/vigneshshettyin/Flask-Generate-Certificate) | [![GitHub issues](https://img.shields.io/github/issues/vigneshshettyin/Flask-Generate-Certificate?color=green&logo=github&style=flat)](https://github.com/vigneshshettyin/Flask-Generate-Certificate/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vigneshshettyin/Flask-Generate-Certificate?style=flat&logo=github)](https://github.com/vigneshshettyin/Flask-Generate-Certificate/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vigneshshettyin/Flask-Generate-Certificate?style=flat&color=critical&logo=github)](https://github.com/vigneshshettyin/Flask-Generate-Certificate/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**Bulk Mailer**](https://github.com/vigneshshettyin/Bulk-Mailer/) | [![GitHub issues](https://img.shields.io/github/issues/vigneshshettyin/Bulk-Mailer?color=green&logo=github&style=flat)](https://github.com/vigneshshettyin/Bulk-Mailer/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vigneshshettyin/Bulk-Mailer?style=flat&logo=github)](https://github.com/vigneshshettyin/Bulk-Mailer/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vigneshshettyin/Bulk-Mailer?style=flat&color=critical&logo=github)](https://github.com/vigneshshettyin/Bulk-Mailer/pulls?q=is%3Apr+is%3Aclosed)   |
 
-## My Skill Set  
+## My Skill Set 🖥️
 <table><tr><td valign="top" width="33%">
 
 
@@ -77,7 +66,7 @@
 
 <br/>  
 
-## Connect with me  
+## Connect with Me 🤝🏻
 <div align="center">
 <a href="https://github.com/vigneshshettyin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -99,7 +88,7 @@
 
 <br/>  
 
-### Github Stats:
+## Github Statistics ⚖️
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vigneshshettyin&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
