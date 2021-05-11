@@ -80,7 +80,7 @@ I'm Vignesh Shetty 🙋, a full-time full-stack freelance developer 👨‍💻 
 <a href="https://www.youtube.com/channel/UCsu4KjG49zxDPDNIDvrXBBQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:contact@vigneshshetty.in" target="_blank">
+<a href="mailto:contact@vigneshcodes.in" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>  
 </div>  
