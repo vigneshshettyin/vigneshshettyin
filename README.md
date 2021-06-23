@@ -102,8 +102,9 @@ I'm Vignesh Shetty 🙋, a full-time full-stack freelance developer 👨‍💻 
 
 </td></tr></table> -->
 
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/vigneshshettyin/vigneshshettyin/f1cc137b4d30cd056df4278d86505ffe5d1bb198/github-metrics.svg" align="center"  />
+<img src="https://github.com/vigneshshettyin/vigneshshettyin/blob/main/github-metrics.svg" align="center" />
 </div>
 
 <br/>
