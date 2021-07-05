@@ -92,7 +92,7 @@ I'm Vignesh Shetty 🙋, a full-time full-stack freelance developer 👨‍💻 
 
 ## Github Statistics ⚖️
 
-<!-- <table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vigneshshettyin&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -100,12 +100,8 @@ I'm Vignesh Shetty 🙋, a full-time full-stack freelance developer 👨‍💻 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshshettyin&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table> -->
+</td></tr></table>
 
-
-<div align="center">
-<img src="https://github.com/vigneshshettyin/vigneshshettyin/blob/main/github-metrics.svg" align="center" />
-</div>
 
 <br/>
 <div align="center">
