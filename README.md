@@ -102,6 +102,11 @@ I'm Vignesh Shetty 🙋, a full-time full-stack freelance developer 👨‍💻 
 
 </td></tr></table>
 
+#### Weekly Deployment
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 <br/>
 <div align="center">
