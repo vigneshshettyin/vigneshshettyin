@@ -4,7 +4,18 @@
  
 # Hello there! 👋🏻
 
-I'm Vignesh Shetty 🙋, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀. I’m a tech lover, I do Full-Stack Development. I’m currently learning App Development Using Kotlin. Ask me about Data Visualization(Seaborn, Potly, Matplotlib), Web Development ( PHP, JS, HTML, CSS, MYSQL, FLASK, DJANGO, REACT). I’m looking for help with Kotlin. 
+- 🌱 I’m currently learning about **AWS and Kotlin**
+
+- 👨‍💻 All about me is at [My Website](https://vigneshcodes.in)
+
+- 📝 Sometimes I write articles on [Hashnode](https://blog.vigneshcodes.in/)
+
+- 💬 Ask me about **Python, Node JS, React, Javascript, Docker, Flask, Rest API, Azure**
+
+- 📫 How to reach me **github@vigneshcodes.in**
+
+- 📄 Know about my work & experiences [My Resume](https://go.vigneshcodes.in/resume)
+
 
 <br/>
 
@@ -64,7 +75,13 @@ I'm Vignesh Shetty 🙋, a full-time full-stack freelance developer 👨‍💻 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
+
+<br/>
+
+### Wanna see my blogs:question::fire:
+
+- [Quick Guide To Deploy Using Docker](https://blog.vigneshcodes.in/quick-guide-to-deploy-using-docker)
 
 <br/>  
 
