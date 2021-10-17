@@ -119,16 +119,6 @@
 
 </td></tr></table>
 
-<!--START_SECTION:waka-->
-```text
-Week: 10 October, 2021 - 16 October, 2021
-
-JavaScript   1 hr 44 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.93 % 
-HTML         4 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.07 % 
-```
-<!--END_SECTION:waka-->
-
-
 
 <br/>
 <div align="center">
