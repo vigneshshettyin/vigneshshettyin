@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=77713888)
 
-[![MastHead](https://cdn.discordapp.com/attachments/702454057003909141/839142090037526568/Screenshot_2021-05-04_194007.png)](https://vigneshcodes.in)
+[![MastHead](https://res.cloudinary.com/vigneshshettyin/image/upload/v1641268279/yfhuzoh9vabxtcqyq2aa.gif)](https://vigneshcodes.in)
  
 # Hello there! 👋🏻
 
@@ -16,10 +16,12 @@
 
 - 📄 Know about my work & experiences [My Resume](https://go.vigneshcodes.in/resume)
 
+- :atom:  Check my projects here [LinkTree](https://vignesh.study)
+
 
 <br/>
 
-[![Vignesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vigneshshettyin&theme=rogue)](https://github.com/vigneshshettyin)
+[![Vignesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vigneshshettyin&theme=xcode)](https://github.com/vigneshshettyin)
 <br>
 
 ## Let's Go Open Source 📖
