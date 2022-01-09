@@ -1,6 +1,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=77713888)
 
-[![MastHead](https://res.cloudinary.com/vigneshshettyin/image/upload/v1641268279/yfhuzoh9vabxtcqyq2aa.gif)](https://vigneshcodes.in)
+ <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p>
+ <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Vignesh+Shetty;Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
  
 # Hello there! 👋🏻
 
@@ -33,51 +34,114 @@
 | [**Open Source React**](https://github.com/vigneshshettyin/Open-Source-React/) | [![GitHub issues](https://img.shields.io/github/issues/vigneshshettyin/Open-Source-React?color=green&logo=github&style=flat)](https://github.com/vigneshshettyin/Open-Source-React/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vigneshshettyin/Open-Source-React?style=flat&logo=github)](https://github.com/vigneshshettyin/Open-Source-React/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vigneshshettyin/Open-Source-React?style=flat&color=critical&logo=github)](https://github.com/vigneshshettyin/Open-Source-React/pulls?q=is%3Apr+is%3Aclosed)   |
 | [**Open Source Android**](https://github.com/vigneshshettyin/Android) | [![GitHub issues](https://img.shields.io/github/issues/vigneshshettyin/Android?color=green&logo=github&style=flat)](https://github.com/vigneshshettyin/Android/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vigneshshettyin/Android?style=flat&logo=github)](https://github.com/vigneshshettyin/Android/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vigneshshettyin/Android?style=flat&color=critical&logo=github)](https://github.com/vigneshshettyin/Android/pulls?q=is%3Apr+is%3Aclosed)   |
 
-## My Skill Set 🖥️
-<table><tr><td valign="top" width="33%">
+## Languages and Tools 🛠
 
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-</td></tr></table>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+     <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <br/>HTML5
+   </td>
+   <td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a>
+    <br/> CSS3
+   </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://img.icons8.com/ios/500/000000/flask.png" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td> 
+  </tr>
+  <tr> 
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material ui
+    </td> 
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  
+   <tr>
+<td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+        <td align="center" width="96">
+      <a href="#" >
+        <img src="https://img.icons8.com/color/480/000000/kotlin.png" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+  </tr>
+    
+</table>
 
 <br/>
 
