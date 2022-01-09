@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=77713888)
 
- <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" /></p>
+ <p align="center"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" height="200" /></p>
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Vignesh+Shetty;Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
  
 # Hello there! 👋🏻
@@ -145,11 +145,10 @@
 
 <br/>
 
-### Wanna see my blogs:question::fire:
+## Latest Blog Posts ✍️
 
-- [Quick Guide To Deploy Using Docker](https://blog.vigneshcodes.in/quick-guide-to-deploy-using-docker)
-- [Create Linktree Clone](https://blog.vigneshcodes.in/create-linktree-clone)
-
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 <br/>  
 
 ## Connect with Me 🤝🏻
