@@ -25,7 +25,7 @@
 [![Vignesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vigneshshettyin&theme=xcode)](https://github.com/vigneshshettyin)
 <br>
 
-## Let's Go Open Source 📖
+## Let's Go Open-Source 📖
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
@@ -184,6 +184,9 @@ Create a React Docker Imag... </p> <br/> <br/>
 <a href="mailto:contact@vigneshcodes.in" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://blog.vigneshcodes.in/">
+    <img  alt="Vignesh Shetty's Blog" title="Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
 </div>  
   
 
