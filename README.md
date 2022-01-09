@@ -151,11 +151,11 @@
 <p align="left">
 <a href="https://blog.vigneshcodes.in//create-linktree-clone" title="Create Linktree Clone"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641571259521/W1pVACsPZ.png" alt="Create Linktree Clone" width="250px" align="left" /></a>
 <a href="https://blog.vigneshcodes.in//create-linktree-clone" title="Create Linktree Clone"><strong>Create Linktree Clone</strong></a>
-<br/> Do first, understand later. That is the approach here. If you are new to some of these technologies, don’t worry about it. Just follow along, and dive into topics afterward.
+<br/> Nowadays web applications like  Linktree are used by developers to showcase their social, project links. Today let's see how to create our custom Linktree by below easy 3 steps. Let's dive in...
 In this guide, we will:
 
 Forking a github repository.
-Modifying content and ... </p> <br/> <br/>
+M... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.vigneshcodes.in//quick-guide-to-deploy-using-docker" title="Quick Guide To Deploy Using Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1630990172036/v9olxXXUI.png" alt="Quick Guide To Deploy Using Docker" width="250px" align="left" /></a>
 <a href="https://blog.vigneshcodes.in//quick-guide-to-deploy-using-docker" title="Quick Guide To Deploy Using Docker"><strong>Quick Guide To Deploy Using Docker</strong></a>
