@@ -5,13 +5,13 @@
  
 # Hello there! 👋🏻
 
-- 🌱 I’m currently learning about **AWS and Kotlin**
+- 🌱 I’m currently learning about **IOS Development and DevOps**
 
 - 👨‍💻 All about me is at [My Website](https://vigneshcodes.in)
 
 - 📝 Sometimes I write articles on [Hashnode](https://blog.vigneshcodes.in/)
 
-- 💬 Ask me about **Python, Node JS, React, Javascript, Docker, Flask, Rest API, Azure**
+- 💬 Ask me about **Python, Node JS, React, Javascript, Docker, Flask, Rest API, Azure, AWS, Express, Next JS**
 
 - 📫 How to reach me **github@vigneshcodes.in**
 
