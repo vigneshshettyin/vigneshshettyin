@@ -149,6 +149,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.vigneshcodes.in//docker-for-production-build" title="Docker For Production Build"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651815414998/BWB7rDiH4.png" alt="Docker For Production Build" width="250px" align="left" /></a>
+<a href="https://blog.vigneshcodes.in//docker-for-production-build" title="Docker For Production Build"><strong>Docker For Production Build</strong></a>
+<br/> This is a complete hands-on tutorial for setting up an AWS EC2 instance for production using Docker, Portainer, Ngnix Reverse Proxy Manager & Cloudflare DNS. This is the first blog of the series further important topics such as VPC, Load Balancing et... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.vigneshcodes.in//create-linktree-clone" title="Create Linktree Clone"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641571259521/W1pVACsPZ.png" alt="Create Linktree Clone" width="250px" align="left" /></a>
 <a href="https://blog.vigneshcodes.in//create-linktree-clone" title="Create Linktree Clone"><strong>Create Linktree Clone</strong></a>
 <br/> Nowadays web applications like  Linktree are used by developers to showcase their social, project links. Today let's see how to create our custom Linktree by below easy 3 steps. Let's dive in...
