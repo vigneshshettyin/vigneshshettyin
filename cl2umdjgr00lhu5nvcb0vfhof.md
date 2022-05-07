@@ -38,7 +38,7 @@ With all the isolation and security provided by the Docker platform, it allows y
 
 Head over to the official AWS website https://aws.amazon.com/
 
-Check [AWS Offical Docs](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) for account setup. Kindly set up billing alerts so, that AWS doesn't charge you for using their services. 
+Check [AWS Official Docs](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) for account setup. Kindly set up billing alerts so, that AWS doesn't charge you for using their services. 
 
 ![Screenshot 2022-05-06 at 11.30.53 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651816918494/q2Fu1RIK6.png align="left")
 
