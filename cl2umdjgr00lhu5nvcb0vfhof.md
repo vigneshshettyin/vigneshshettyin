@@ -104,7 +104,7 @@ Now, head over to EC2 Console and click on the Elastic IPs option. In the top ba
 
 ![Screenshot 2022-05-06 at 2.18.53 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651826942397/FCqfn7H9y.png align="left")
 
-Now, you will find a top success bar button called Associate thus Elastic IP address click on that option. This will associate this elastic IP with our instance which we create some time ago. 
+Now, you will find a top success bar button called Associate thus Elastic IP address click on that option. This will associate this elastic IP with our instance which we created some time ago. 
 
 ![Screenshot 2022-05-06 at 2.20.41 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651827052987/YhTPACE0H.png align="left")
 
@@ -158,7 +158,7 @@ Now, the cloud instance is successfully set up and ready for further steps.
 
 ### Install Docker
 
-Check out the official docker documentation to install Docker on Ubuntu or blindly run the below commands one after the other. 
+Check out the official docker documentation to install Docker on Ubuntu or run the below commands one after the other. 
 
 [Docker Documentation](https://docs.docker.com/engine/install/ubuntu/)
 
@@ -331,7 +331,7 @@ Follow similar steps for Ngnix Reverse Proxy Manager
 
 ![Screenshot 2022-05-06 at 8.09.25 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651847994875/N-_2Ax-K6.png align="left")
 
-Now, we can enable proxy status in Cloudflare DNS also PORT 81, 9443 from Security Group. Also, Portianer & Ngnix Proxy Manager is now accessible from the sub-domain setup. 
+Now, we can enable proxy status in Cloudflare DNS also remove PORT 81, 9443 from AWS EC2 Security Group. Also, Portianer & Ngnix Proxy Manager is now accessible from the sub-domain setup. 
 
 ![Screenshot 2022-05-06 at 8.10.46 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1651848199679/ddmSGBIst.png align="left")
 
