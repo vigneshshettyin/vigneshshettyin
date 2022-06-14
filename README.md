@@ -161,13 +161,13 @@ In this guide, we will:
 Forking a github repository.
 M... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.vigneshcodes.in//quick-guide-to-deploy-using-docker" title="Quick Guide To Deploy Using Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1630990172036/v9olxXXUI.png" alt="Quick Guide To Deploy Using Docker" width="250px" align="left" /></a>
+<a href="https://blog.vigneshcodes.in//quick-guide-to-deploy-using-docker" title="Quick Guide To Deploy Using Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651855303690/xPI5gPRSQ.png" alt="Quick Guide To Deploy Using Docker" width="250px" align="left" /></a>
 <a href="https://blog.vigneshcodes.in//quick-guide-to-deploy-using-docker" title="Quick Guide To Deploy Using Docker"><strong>Quick Guide To Deploy Using Docker</strong></a>
-<br/> Do first, understand later. That is the approach here. If you are new to some of these technologies, don’t worry about it. Just follow along, and dive into topics afterward.
+<br/> Do first, understand later. That is the approach here. If you are new to some of these technologies, don’t worry about it. Just follow along, and dive into topics afterwards.
 In this guide, we will:
 
 Setup a basic React App.
-Create a React Docker Imag... </p> <br/> <br/>
+Create a React Docker Ima... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 <br/>  
 
