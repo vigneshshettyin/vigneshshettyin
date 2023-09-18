@@ -5,19 +5,15 @@
  
 # Hello there! 👋🏻
 
-- 🌱 I’m currently learning about **IOS Development and DevOps**
+- 🌱 I’m currently working as a **Associate Software Engineer @ Clarivate**
 
-- 👨‍💻 All about me is at [My Website](https://vigneshcodes.in)
+- 👨‍💻 All about me is at [LinkTree](https://linktree.vshetty.dev/)
 
 - 📝 Sometimes I write articles on [Hashnode](https://blog.vigneshcodes.in/)
 
-- 💬 Ask me about **Python, Node JS, React, Javascript, Docker, Flask, Rest API, Azure, AWS, Express, Next JS**
+- 💬 Ask me about **Python, Node JS, React, Javascript, Docker, Flask, Rest API, Azure, AWS, Express, PostgreSQL**
 
-- 📫 How to reach me **github@vigneshcodes.in**
-
-- 📄 Know about my work & experiences [My Resume](https://go.vigneshcodes.in/resume)
-
-- :atom:  Check my projects here [LinkTree](https://vignesh.study)
+- 📫 How to reach me **vignesh@vshetty.dev**
 
 
 <br/>
