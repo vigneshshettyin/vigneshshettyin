@@ -19,6 +19,6 @@ jobs:
           USERNAME: "vigneshshettyin" # Hashnode Username
           COUNT: 4 # MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: "https://blog.vigneshcodes.in/"
+          BLOG_URL: "https://blogs.vshetty.dev"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
