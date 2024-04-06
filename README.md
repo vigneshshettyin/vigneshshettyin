@@ -164,6 +164,13 @@ In this guide, we will:
 
 Setup a basic React App.
 Create a React Docker Ima... </p> <br/> <br/>
+<p align="left">
+<a href="https://blogs.vshetty.dev/clickhouse-decoded-high-cardinality-use-case" title="Quick Guide To Deploy Using Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1712393661349/c9a2b188-d6a3-4c34-8e3a-59b449e7142e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="ClickHouse Decoded: High Cardinality Use case" width="250px" align="left" /></a>
+<a href="https://blogs.vshetty.dev/clickhouse-decoded-high-cardinality-use-case" title="ClickHouse Decoded: High Cardinality Use case"><strong>ClickHouse Decoded: High Cardinality Use case</strong></a>
+<br/> Unveiling the Power of Count(Distinct <Exp>) in ClickHouse: Optimizing High Cardinality Counting for Data Analytics Dominance
+Introducing the "ClickHouse Decoded" Blog Series
+Welcome to the inaugural blog of the "ClickHouse Decoded" series! Over the past six
+</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 <br/>  
 
