@@ -1,17 +1,14 @@
 ![](https://hit.yhype.me/github/profile?user_id=77713888)
-
- <p align="center"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" height="200" /></p>
- <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Vignesh+Shetty;Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
  
 # Hello there! 👋🏻
 
-- 🌱 I’m currently working as a **Associate Software Engineer @ Clarivate**
+- 🌱 I’m currently working as a **Senior Software Engineer @ Clarivate**
 
 - 👨‍💻 All about me is at [LinkTree](https://linktree.vshetty.dev/)
 
-- 📝 Sometimes I write articles on [Hashnode](https://blog.vigneshcodes.in/)
+- 📝 Sometimes I write articles on [Hashnode](https://blogs.vshetty.dev/)
 
-- 💬 Ask me about **Python, Node JS, React, Javascript, Docker, Flask, Rest API, Azure, AWS, Express, PostgreSQL**
+- 💬 Ask me about **Python, Node JS, React, Javascript, Docker, Flask, AWS, Express, PostgreSQL, Clickhouse, StarRocks, Django**
 
 - 📫 How to reach me **vignesh@vshetty.dev**
 
@@ -188,10 +185,10 @@ Welcome to the inaugural blog of the "ClickHouse Decoded" series! Over the past 
 <a href="https://www.youtube.com/channel/UCsu4KjG49zxDPDNIDvrXBBQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:contact@vigneshcodes.in" target="_blank">
+<a href="mailto:vignesh@vshetty.dev" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>  
- <a href="https://blog.vigneshcodes.in/">
+ <a href="https://blogs.vshetty.dev/">
     <img  alt="Vignesh Shetty's Blog" title="Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </div>  
