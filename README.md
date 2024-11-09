@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working as a **Senior Software Engineer @ Clarivate**
 
-- 👨‍💻 All about me is at [LinkTree](https://linktree.vshetty.dev/)
+- 👨‍💻 All about me is at [Resume](https://vshetty.dev/),  [LinkTree](https://linktree.vshetty.dev/)
 
 - 📝 Sometimes I write articles on [Hashnode](https://blogs.vshetty.dev/)
 
